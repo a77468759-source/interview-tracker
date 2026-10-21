@@ -1,6 +1,6 @@
 # PrepTrack
 
-PrepTrack is a responsive interview-practice tracker built with React, Vite, Tailwind CSS, and Lucide icons. It helps students organize DSA, Git, technical, interview, and machine-coding practice in one place.
+PrepTrack (the `interview-tracker` project) is a responsive interview-practice tracker built with React, Vite, Tailwind CSS, and Lucide icons. It helps students organize DSA, Git, technical, interview, and machine-coding practice in one place.
 
 ## Run locally
 
